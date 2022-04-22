@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bahmanbj
+- 👋 Hi, ***I’m @bahmanbj***
 - 👀 I’m interested in Hardware and Software
 - 🌱 I’m currently learning GitHub
 - 💞️ I’m looking to collaborate on "I don't know exactly"
